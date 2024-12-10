@@ -1,6 +1,4 @@
-# 🎶 **Spotify EDA & Data Transformation README**
-
-## 🪼 **Introduction**
+# 🎶 **Spotify EDA & Data Transformation**
 
 This project is an exploratory data analysis (EDA) and data transformation exercise on a Spotify dataset. The dataset contains information about various songs and their performance on different music streaming platforms, including Spotify, YouTube, and TikTok. The goal of this project is to explore the relationships between different variables, identify patterns and trends, and transform the data to make it more suitable for analysis.
 
